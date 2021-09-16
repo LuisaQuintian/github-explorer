@@ -1,2 +1,2 @@
 # github-explorer
- First project i made using ReactJs
+ First project i made using ReactJs, from the Ignite course of Rocketseat.
